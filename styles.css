@@ -85,10 +85,6 @@ body * {
     animation: swipe_right 0.2s forwards;
 }
 
-#switch button:hover {
-    outline: 8px solid var(--higthligth-color);
-}
-
 #switch span {
     display: block;
     width: 64px;
